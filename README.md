@@ -6,12 +6,6 @@ The project uses a **7,000-record iPhone sales dataset** and combines Excel form
 
 ---
 
-## 📊 Dashboard Preview
-
-![iPhone Sales Dashboard](Dashboard_Preview.png)
-
----
-
 ## 🎯 Project Objective
 
 The objective of this project is to build an interactive and visually appealing Excel dashboard that helps analyze iPhone sales data and answer key business questions such as:
